@@ -1,6 +1,6 @@
 # [Aura Theme](https://github.com/daltonmenezes/aura-theme)
 
----
+
 
 ### [Download all](https://github.com/daltonmenezes/aura-theme/archive/refs/heads/main.zip)
 
