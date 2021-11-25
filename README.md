@@ -19,6 +19,8 @@
 
 The design is based on the `type 0` [wallpaper from Aura Theme](https://github.com/daltonmenezes/aura-theme/tree/main/packages/wallpapers#type-0) with little tweaks.
 
+If you didn't find a wallpaper for your OS, you can make one for yourself using [this template](https://github.com/uttsav1025/wallpapers-for-aura-theme/raw/main/edit_for_your_OS.psd) .
+
 By
 
 [![uttsav1025](https://github.com/uttsav1025.png?size=100)](https://github.com/uttsav1025)  |
