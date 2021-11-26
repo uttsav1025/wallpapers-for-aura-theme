@@ -15,6 +15,10 @@
 ![arch](arch2.png)
 ![apple](apple.png)
 ![android_chromebooks](android_chromebooks.png)
+  
+  
+Lockscreen wallpapers
+![lockscreen1](lockscreen.png)
 </p>
 
 The design is based on the `type 0` [wallpaper from Aura Theme](https://github.com/daltonmenezes/aura-theme/tree/main/packages/wallpapers#type-0) with little tweaks.
