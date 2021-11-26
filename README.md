@@ -15,10 +15,13 @@
 ![arch](arch2.png)
 ![apple](apple.png)
 ![android_chromebooks](android_chromebooks.png)
+![android1](android1.png)
   
   
 Lockscreen wallpapers
+  
 ![lockscreen1](lockscreen.png)
+![androidlock](android_lock.png)
 </p>
 
 The design is based on the `type 0` [wallpaper from Aura Theme](https://github.com/daltonmenezes/aura-theme/tree/main/packages/wallpapers#type-0) with little tweaks.
@@ -27,6 +30,4 @@ If you didn't find a wallpaper for your OS, you can make one for yourself using 
 
 By
 
-[![uttsav1025](https://github.com/uttsav1025.png?size=100)](https://github.com/uttsav1025)  |
----  |
-[uttsav1025](https://github.com/uttsav1025) |
+[![uttsav1025](https://github.com/uttsav1025.png?size=
