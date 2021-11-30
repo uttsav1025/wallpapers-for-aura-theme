@@ -30,4 +30,6 @@ If you didn't find a wallpaper for your OS, you can make one for yourself using 
 
 By
 
-[![uttsav1025](https://github.com/uttsav1025.png?size=
+[![uttsav1025](https://github.com/uttsav1025.png?size=100)](https://github.com/uttsav1025)  |
+---  |
+[uttsav1025](https://github.com/uttsav1025) |
